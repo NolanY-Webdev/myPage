@@ -7,7 +7,7 @@ class Intro extends Component {
 
     return (
 
-      <div classname='Intro'>
+      <div className='Intro'>
         <div className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <h2>Welcome</h2>

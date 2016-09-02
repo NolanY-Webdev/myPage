@@ -1,6 +1,7 @@
 .StickyNav {
-  background-color: #420;
-  height: 777px;
-  padding: 42px;
+  background-color: #555;
+  height: 10%;
+  padding: 4px;
   color: white;
+  box-sizing: border-box;
 }

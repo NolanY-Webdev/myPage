@@ -5,7 +5,7 @@ class Goals extends Component {
   render() {
 
     return (
-      <div classname='Goals'>
+      <div className='Goals'>
         <h1> This is where my personal goals will be </h1>
       </div>
       );

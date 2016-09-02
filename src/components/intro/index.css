@@ -1,6 +1,21 @@
 .Intro {
-  background-color: #420;
-  height: 777px;
+  background-color: #333;
+  height: 90%;
   padding: 42px;
   color: white;
+  box-sizing: border-box;
+}
+
+.App-logo {
+  animation: spin infinite 20s linear;
+  height: 80px;
+  box-sizing: border-box;
+}
+
+.App-header {
+  background-color: #222;
+  height: 100%;
+  padding: 20px;
+  color: white;
+  box-sizing: border-box;
 }

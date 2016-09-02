@@ -1,6 +1,7 @@
 .Goals {
-  background-color: #420;
-  height: 777px;
+  background-color: #222;
+  height: 100%;
   padding: 42px;
   color: white;
+  box-sizing: border-box;
 }
